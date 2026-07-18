@@ -1,46 +1,37 @@
-# Design Patterns Hands-On
+# Java FSE Training Hands-On
 
-## Language
-Java
+## Week 1
+- Implemented Singleton Pattern
+- Developed Factory Method Pattern
+- Created E-Commerce Search Function
+- Built Financial Forecasting Application
+- Implemented PL/SQL Control Structures
+- Developed Stored Procedures
 
-## Exercises Completed
+## Week 2
+- Configured Spring Application
+- Implemented Dependency Injection
+- Created Maven Project
 
-Exercise 1 - Singleton Pattern
+## Week 3
+- Developed Spring Data JPA Applications
+- Implemented RESTful Web Services
+- Configured JWT Authentication
 
-Implemented the Singleton Design Pattern to ensure only one instance of a class is created and used throughout the application.
+## Week 4
+- Created Account and Loan Microservices
+- Configured Eureka Discovery Server
 
-Exercise 2 - Factory Method Pattern
+## Week 5
+- Developed React Components and Forms
+- Created Angular Components
 
-Implemented the Factory Method Design Pattern to create objects without specifying their exact classes.
-
-Exercise 3 - Control Structures
-
-Used conditional statements and control structures to determine age eligibility based on user input.
-
-Exercise 4 - E-Commerce Platform Search Function
-
-Created a Product class, stored product details in an ArrayList, and implemented a Linear Search algorithm to find products based on user requirements.
-
-Exercise 5 - Financial Forecasting
-
-Developed a financial forecasting application to calculate the future value of an investment using compound growth with a fixed annual growth rate.
-
-Exercise 6 - PL/SQL Control Structures
-
-Implemented PL/SQL programs using conditional statements, loops, and control structures.
-
-Exercise 7 - PL/SQL Stored Procedures
-
-Created and executed stored procedures to perform database operations and demonstrate procedural programming concepts.
+## Week 6
+- Performed Git Repository Management
+- Implemented Branching, Merging and Cloning
 
 ## Technologies Used
-
-- Java
-- PL/SQL
-- Oracle Database
-- ArrayList
-- Object-Oriented Programming (OOP)
+Java, Spring Boot, Spring Data JPA, REST API, Microservices, React, Angular, Git, Maven, PL/SQL
 
 ## Author
-
-H Sree Narayane
+**H Sree Narayane**
