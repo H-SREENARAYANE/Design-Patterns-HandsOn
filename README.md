@@ -1,14 +1,46 @@
 # Design Patterns Hands-On
 
+## Language
+Java
+
+## Exercises Completed
+
 Exercise 1 - Singleton Pattern
+
+Implemented the Singleton Design Pattern to ensure only one instance of a class is created and used throughout the application.
+
 Exercise 2 - Factory Method Pattern
-Exercise 3- Control Structures(I used age eligibility as an example)
-Exercise 4-E-commerce Platform Search Function(I have created a Product class, stored products in an ArrayList, and implemented a search functionality using linear search to find and display matching products)
-Exercise 5: Financial Forecasting(I created a Financial Forecasting program that calculates the future value of an investment using a fixed annual growth rate. The program applies compound growth for a specified number of years and displays the forecasted amount.)
-PLSQL_Exercises	Exercise 6: Control Structures
-PLSQL_Exercises	Exercise 7: Stored Procedures 
 
+Implemented the Factory Method Design Pattern to create objects without specifying their exact classes.
 
+Exercise 3 - Control Structures
 
+Used conditional statements and control structures to determine age eligibility based on user input.
 
-Language: Java
+Exercise 4 - E-Commerce Platform Search Function
+
+Created a Product class, stored product details in an ArrayList, and implemented a Linear Search algorithm to find products based on user requirements.
+
+Exercise 5 - Financial Forecasting
+
+Developed a financial forecasting application to calculate the future value of an investment using compound growth with a fixed annual growth rate.
+
+Exercise 6 - PL/SQL Control Structures
+
+Implemented PL/SQL programs using conditional statements, loops, and control structures.
+
+Exercise 7 - PL/SQL Stored Procedures
+
+Created and executed stored procedures to perform database operations and demonstrate procedural programming concepts.
+
+## Technologies Used
+
+- Java
+- PL/SQL
+- Oracle Database
+- ArrayList
+- Object-Oriented Programming (OOP)
+
+## Author
+
+H Sree Narayane
